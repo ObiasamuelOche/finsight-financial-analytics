@@ -49,7 +49,8 @@ ___
 ### 3. Departmental and Cost Analysis
 
 Examines departmental expenditure, expense accounts and major cost drivers across the two financial years.
-
+<img width="1315" height="737" alt="image" src="https://github.com/user-attachments/assets/5f1e089a-44da-4061-9c09-3611d1560462" />
+___
 ## Key Financial Findings
 
 - Revenue increased by approximately 52.63% between 2024 and 2025.
