@@ -39,6 +39,7 @@ The objective is to support management decision-making through data-driven finan
 
 Provides a high-level summary of financial performance through KPI cards and monthly revenue and expense trends.
 
+
 ### 2. Profit and Loss Dashboard
 
 Presents the income statement, including revenue, cost of sales, gross profit, operating expenses and net profit before tax.
