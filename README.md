@@ -4,8 +4,7 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 [![DAX](https://img.shields.io/badge/Language-DAX-blue)](https://learn.microsoft.com/en-us/dax/dax-overview)
-[![Status](https://img.shields.io/badge/Project-Completed-success)](https://github.com/ObiasamuelOche/finsight-financial-analytics/raw/refs/heads/main/FinSight%20Financial%20Analytics.docx)
-
+![Status](https://img.shields.io/badge/Project-Completed-success)
 ## Project Overview
 
 FinSight is a financial analytics project developed using Microsoft Power BI to evaluate the financial performance of a business over the 2024–2025 reporting periods.
