@@ -30,7 +30,7 @@ The objective is to support management decision-making through data-driven finan
 | [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) | Source financial dataset |
 | [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) | Data modelling and visualization |
 | [DAX](https://learn.microsoft.com/en-us/dax/dax-overview) | Financial measures and calculations |
-| [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/excel) | Project documentation |
+| [Microsoft Word]([https://www.microsoft.com/en-us/microsoft-365/excel](https://www.microsoft.com/en-us/microsoft-365/download-office?ocid=ORSEARCH_Bing)) | Project documentation |
 | [GitHub](https://github.com/ObiasamuelOche/finsight-financial-analytics/tree/main) | Project hosting and portfolio presentation |
 
 ## Dashboard Pages
