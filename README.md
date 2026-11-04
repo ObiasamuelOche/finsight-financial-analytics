@@ -92,7 +92,7 @@ The dataset is acknowledged as an instructor-provided resource and is not claime
 
 ## Project Files
 
-- `FinSight_Financial_Analytics.pbix` – Interactive Power BI report.
+- [`FinSight_Financial_Analytics.pbix`](https://github.com/ObiasamuelOche/finsight-financial-analytics/raw/refs/heads/main/FinSight%20Financial%20Analytics.pbix) – Interactive Power BI report.
 - [`FinSight_Financial_Performance_Analysis.docx`](https://github.com/ObiasamuelOche/finsight-financial-analytics/raw/refs/heads/main/FinSight%20Financial%20Analysis.docx) – Detailed financial analysis and management recommendations.
 - `Screenshots/` – Dashboard visual previews.
 
