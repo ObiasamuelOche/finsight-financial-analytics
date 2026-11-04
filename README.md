@@ -4,7 +4,7 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 [![DAX](https://img.shields.io/badge/Language-DAX-blue)](https://learn.microsoft.com/en-us/dax/dax-overview)
-![Status](https://img.shields.io/badge/Project-Completed-success)
+[![Status](https://img.shields.io/badge/Project-Completed-success)](https://github.com/ObiasamuelOche/finsight-financial-analytics/blob/main/Screenshot/Departmental-Analysis%202025.png)
 
 ## Project Overview
 
