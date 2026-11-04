@@ -3,7 +3,7 @@
 ### Financial Performance Analysis & Interactive Dashboard (2024–2025)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![DAX](https://img.shields.io/badge/Language-DAX-blue)
+[![DAX](https://img.shields.io/badge/Language-DAX-blue)](https://learn.microsoft.com/en-us/dax/dax-overview)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## Project Overview
