@@ -38,6 +38,7 @@ The objective is to support management decision-making through data-driven finan
 ### 1. Executive Financial Overview
 
 Provides a high-level summary of financial performance through KPI cards and monthly revenue and expense trends.
+<img width="1300" height="701" alt="image" src="https://github.com/user-attachments/assets/befe14f0-11e1-4e87-be40-82fdffaf6492" />
 
 
 ### 2. Profit and Loss Dashboard
