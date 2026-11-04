@@ -29,7 +29,7 @@ The objective is to support management decision-making through data-driven finan
 |---|---|
 | Microsoft Excel | Source financial dataset |
 | [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) | Data modelling and visualization |
-| DAX | Financial measures and calculations |
+| [DAX](https://learn.microsoft.com/en-us/dax/dax-overview) | Financial measures and calculations |
 | Microsoft Word | Project documentation |
 | GitHub | Project hosting and portfolio presentation |
 
