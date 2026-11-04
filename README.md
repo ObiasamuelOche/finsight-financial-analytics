@@ -31,7 +31,7 @@ The objective is to support management decision-making through data-driven finan
 | [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) | Data modelling and visualization |
 | [DAX](https://learn.microsoft.com/en-us/dax/dax-overview) | Financial measures and calculations |
 | Microsoft Word | Project documentation |
-| GitHub | Project hosting and portfolio presentation |
+| [GitHub](https://github.com/ObiasamuelOche/finsight-financial-analytics/tree/main) | Project hosting and portfolio presentation |
 
 ## Dashboard Pages
 
