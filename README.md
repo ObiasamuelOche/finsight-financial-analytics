@@ -49,7 +49,9 @@ ___
 ### 3. Departmental and Cost Analysis
 
 Examines departmental expenditure, expense accounts and major cost drivers across the two financial years.
+<img width="1308" height="740" alt="image" src="https://github.com/user-attachments/assets/ffdb51db-3a0c-41ad-8124-7d2763c9f768" />
 <img width="1315" height="737" alt="image" src="https://github.com/user-attachments/assets/5f1e089a-44da-4061-9c09-3611d1560462" />
+
 ___
 ## Key Financial Findings
 
